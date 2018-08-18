@@ -37,3 +37,4 @@
 - [wwMongoDb, allows you to access MongoDb from Visual FoxPro](https://github.com/RickStrahl/wwMongoDb)
 - [ifox, various implementations of common internet protocols](https://github.com/ColiseoSoftware/ifox)
 - [FoxBarcode, create bar codes](https://github.com/VFPX/FoxBarcode)
+- [FoxPages, multithreaded web server](https://github.com/arquimedescrivelari/foxpages)
